@@ -1,0 +1,13 @@
+UPLOAD INSTRUCTIONS
+
+Upload ALL files and folders from this folder to the ROOT of the kirandodiya.github.io repository on the main branch.
+
+Required structure:
+index.html
+styles.css
+script.js
+README.md
+profile.jpg
+assets/
+
+The homepage uses profile.jpg at the repository root.
