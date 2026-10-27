@@ -1,0 +1,20 @@
+UPLOAD INSTRUCTIONS
+
+Upload ALL files and folders from this folder to the ROOT of the kirandodiya.github.io repository (branch: main).
+
+Required structure:
+index.html
+styles.css
+script.js
+profile.jpg
+README.md
+UPLOAD_TO_GITHUB.txt
+assets/favicon.svg
+assets/profile-placeholder.svg
+assets/og-image.svg
+assets/Dr_Kiranbhai_Dodiya_CV.pdf
+
+Notes:
+- The homepage must be named exactly index.html (not "index (1).html").
+- The homepage uses profile.jpg from the repository root.
+- Then: Settings > Pages > Deploy from a branch > main > / (root).
